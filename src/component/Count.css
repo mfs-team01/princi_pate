@@ -1,0 +1,12 @@
+.counter_container{
+   background-color:burlywood ;
+   display: flex;
+   flex-direction: row;
+   gap: 15px;
+   padding:1.5rem;
+   border:2px solid black;
+   border-radius: 4px;
+}
+#btn{
+    padding:10px;
+}
